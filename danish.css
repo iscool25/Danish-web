@@ -1,0 +1,68 @@
+body{
+	background-color: grey;
+
+}
+ 
+h1{
+	color:black;
+    text-align:center ; }
+
+p{
+	color:black;
+	text-align:center ; }
+
+#one img {
+	margin-left: 550px;
+	border :solid;
+	border-radius: 15px;
+	padding: 15px;
+	background-color: darkcyan;
+}
+
+#two img{
+	margin-left: 600px;
+	border:solid ;
+	border-radius: 15px;
+	padding: 15px;
+	background-color:darkcyan ;
+}
+
+#three img{
+	margin-left: 600px;
+	border: solid;
+	border-radius: 15px;
+	padding :15px;
+	background-color:darkcyan;
+}
+
+#four img{
+	margin-left: 600px;
+	border: solid;
+	border-radius: 15px;
+	padding :15px;
+	background-color:darkcyan;
+}
+
+#five img{
+	border: solid;
+	border-radius: 15px;
+	padding :15px ;
+	background-color:darkcyan;
+}
+
+nav{
+     text-align:center ;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li a:hover {color: red;
+              font-size: 16px}
+
+li{display:inline;
+   padding: 20px}
+
+
+
